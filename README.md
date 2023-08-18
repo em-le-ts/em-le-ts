@@ -1,8 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-ndcuong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndcuong/)](https://www.linkedin.com/in/ndcuong/)
-[![Website Badge](https://img.shields.io/badge/-cuongdev.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://docs.cuong-dev.ml/)](https://docs.cuong-dev.ml/)
-[![Twitter Badge](https://img.shields.io/badge/-cuongaws-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuongaws)](https://twitter.com/cuongaws)
-[![Gmail Badge](https://img.shields.io/badge/-ndc.uit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ndc.uit@gmail.com)](mailto:ndc.uit@gmail.com)
-[![Profile viewer Badge](https://komarev.com/ghpvc/?username=cuong-nd)](https://komarev.com/ghpvc/?username=cuong-nd)
+
+[![Profile viewer Badge](https://komarev.com/ghpvc/?username=em-le-ts)](https://komarev.com/ghpvc/?username=em-le-ts)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -19,7 +16,7 @@
 ##
 
 <!--Status
-<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuong-nd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
+<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/em-le-ts?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
 -->
 <!--
 <h3 align="center">⚡ Interested ⚡ </h3>
