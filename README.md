@@ -13,7 +13,7 @@
 * 🔭 I’m currently working on **some of my side projects :P**
 * 👯 I’m looking to collaborate on **anything free and open source**
 * 👨‍💻 All of my projects are available at [https://github.com/em-le-ts](https://github.com/em-le-ts)
-* 💬 Ask me about **DevOps, AWS**
+* 💬 Ask me about **DevOps, MLOPS, GCP AZURE**
 
 
 ##
